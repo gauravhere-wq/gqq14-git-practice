@@ -1,2 +1,4 @@
+
 Team name: NG
-Team member:
+Team member: gqq14, mth115 
+
