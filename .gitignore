@@ -1,3 +1,4 @@
 #ignore secret.txt and all log files
 mysecret.txt
 *.log
+.DS_Store
